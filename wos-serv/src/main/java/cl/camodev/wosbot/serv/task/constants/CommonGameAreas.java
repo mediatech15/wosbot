@@ -145,4 +145,20 @@ public interface CommonGameAreas {
         DTOArea TRAVEL_TIME_OCR_AREA = new DTOArea(
                         new DTOPoint(521, 1141),
                         new DTOPoint(608, 1162));
+
+        // ========================================================================
+        // CHIEF ORDER AREAS
+        // ========================================================================
+
+        /** OCR region for reading Chief Order cooldown time in main menu (urgent mobilization) */
+        DTOArea CHIEF_ORDER_URGENT_MOBILIZATION_MAIN_COOLDOWN_OCR_AREA = new DTOArea(new DTOPoint(160, 332), new DTOPoint(262, 357));
+        /** OCR region for reading Chief Order cooldown time in main menu (rush job) */
+        DTOArea CHIEF_ORDER_RUSH_JOB_MAIN_COOLDOWN_OCR_AREA = new DTOArea(new DTOPoint(435, 332), new DTOPoint(542, 357));
+        /** OCR region for reading Chief Order cooldown time in main menu (productivity day) */
+        DTOArea CHIEF_ORDER_PRODUCTIVITY_DAY_MAIN_COOLDOWN_OCR_AREA = new DTOArea(new DTOPoint(160, 977), new DTOPoint(262, 1002));
+
+        /** OCR region for reading Chief Order active time in detail screen */
+        DTOArea CHIEF_ORDER_DETAIL_ACTIVE_OCR_AREA = new DTOArea(new DTOPoint(355, 910), new DTOPoint(467, 947));
+        /** OCR region for reading Chief Order cooldown time in detail screen */
+        DTOArea CHIEF_ORDER_DETAIL_COOLDOWN_OCR_AREA = new DTOArea(new DTOPoint(395, 910), new DTOPoint(512, 947));
 }
