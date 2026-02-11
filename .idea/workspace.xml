@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="513e8b3d-a0c9-43fe-aec9-5952feb05dc7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/maven-publish.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/picture1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/picture10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/picture11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/picture12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/picture13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/picture2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/picture3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/picture4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/picture5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/picture6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/picture7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/picture8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/picture9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/picture_yt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/adb/AdbWinApi.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/adb/AdbWinUsbApi.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/adb/adb.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/opencv/opencv_java4110.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/ScrollView.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/chi_sim.traineddata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/configs/alto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/configs/ambigs.train" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/configs/api_config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/configs/bigram" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/configs/box.train" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/configs/box.train.stderr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/configs/digits" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/configs/get.images" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/configs/hocr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/configs/inter" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/configs/kannada" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/configs/linebox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/configs/logfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/configs/lstm.train" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/configs/lstmbox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/configs/lstmdebug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/configs/makebox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/configs/page" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/configs/pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/configs/quiet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/configs/rebox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/configs/strokewidth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/configs/tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/configs/txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/configs/unlv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/configs/wordstrbox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/eng.traineddata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/jaxb-api-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/osd.traineddata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/pdf.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/piccolo2d-core-3.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/piccolo2d-extras-3.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/tessconfigs/batch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/tessconfigs/batch.nochop" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/tessconfigs/matdemo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/tessconfigs/msdemo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/tessconfigs/nobatch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/tesseract/tessconfigs/segdemo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/dependency-reduced-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/assembly/zip.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/alliance/view/AllianceLayoutController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/alliance/view/AllianceShopController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/alliancechampionship/view/AllianceChampionshipLayoutController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/bear/view/BearTrapLayoutController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/chieforder/view/ChiefOrderLayoutController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/city/view/CityEventsExtraLayoutController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/city/view/CityEventsLayoutController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/city/view/CityUpgradesLayoutController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/common/model/PriorityItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/common/view/AbstractProfileController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/common/view/PriorityListView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/console/controller/ConsoleLogActionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/console/model/LogMessageAux.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/console/view/ConsoleLogLayoutController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/emulator/model/EmulatorAux.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/emulator/view/EmuConfigLayoutController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/events/view/EventsLayoutController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/experts/view/ExpertsLayoutController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/gather/view/GatherLayoutController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/intel/view/IntelLayoutController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/launcher/view/ILauncherConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/launcher/view/LauncherActionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/launcher/view/LauncherLayoutController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/main/FXApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/mobilization/view/MobilizationLayoutController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/pets/view/PetsLayoutController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/polarterror/view/PolarTerrorLayoutController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/profile/controller/ProfileManagerActionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/profile/model/ConfigAux.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/profile/model/IProfileChangeObserver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/profile/model/IProfileLoadListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/profile/model/IProfileModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/profile/model/IProfileObserverInjectable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/profile/model/ProfileAux.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/profile/model/impl/ProfileCallback.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/profile/model/impl/ProfileModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/profile/view/BulkUpdateDialogController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/profile/view/EditProfileController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/profile/view/NewProfileLayoutController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/profile/view/ProfileManagerLayoutController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/shop/view/ShopLayoutController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/taskmanager/controller/TaskManagerActionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/taskmanager/model/ITaskStatusModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/taskmanager/model/TaskManagerAux.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/taskmanager/model/impl/TaskCallback.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/taskmanager/model/impl/TaskStatusModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/taskmanager/view/ScheduleTaskDialogController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/taskmanager/view/TaskGanttOverviewController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/taskmanager/view/TaskManagerLayoutController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/java/cl/camodev/wosbot/training/view/TrainingLayoutController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/cl/camodev/wosbot/alliance/view/AllianceLayout.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/cl/camodev/wosbot/alliance/view/AllianceShop.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/cl/camodev/wosbot/alliancechampionship/view/AllianceChampionshipLayout.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/cl/camodev/wosbot/bear/view/BearTrapLayout.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/cl/camodev/wosbot/chieforder/view/ChiefOrderLayout.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/cl/camodev/wosbot/city/view/CityEventsExtraLayout.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/cl/camodev/wosbot/city/view/CityEventsLayout.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/cl/camodev/wosbot/city/view/CityUpgradesLayout.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/cl/camodev/wosbot/console/view/ConsoleLogLayout.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/cl/camodev/wosbot/emulator/view/EmuConfigLayout.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/cl/camodev/wosbot/events/view/EventsLayout.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/cl/camodev/wosbot/experts/view/ExpertsLayout.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/cl/camodev/wosbot/gather/view/GatherLayout.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/cl/camodev/wosbot/intel/view/IntelLayout.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/cl/camodev/wosbot/launcher/view/LauncherLayout.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/cl/camodev/wosbot/mobilization/view/AllianceMobilizationLayout.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/cl/camodev/wosbot/pets/view/PetsLayout.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/cl/camodev/wosbot/polarterror/view/PolarTerrorLayout.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/cl/camodev/wosbot/profile/view/BulkUpdateDialog.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/cl/camodev/wosbot/profile/view/EditProfile.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/cl/camodev/wosbot/profile/view/NewProfileLayout.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/cl/camodev/wosbot/profile/view/ProfileManagerLayout.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/cl/camodev/wosbot/shop/view/ShopLayout.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/cl/camodev/wosbot/taskmanager/view/TaskGanttOverview.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/cl/camodev/wosbot/taskmanager/view/TaskManagerLayout.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/cl/camodev/wosbot/training/view/TrainingLayout.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/icons/appIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/icons/buttons/delete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/icons/buttons/load.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/icons/buttons/save.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/icons/indicators/green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/icons/indicators/grey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/icons/indicators/red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/icons/indicators/yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-hmi/src/main/resources/view/ScheduleTaskDialog.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-ot/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-ot/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-ot/src/main/java/cl/camodev/wosbot/console/enumerable/AllianceShopItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-ot/src/main/java/cl/camodev/wosbot/console/enumerable/EnumConfigurationKey.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-ot/src/main/java/cl/camodev/wosbot/console/enumerable/EnumTemplates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-ot/src/main/java/cl/camodev/wosbot/console/enumerable/EnumTpMessageSeverity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-ot/src/main/java/cl/camodev/wosbot/console/enumerable/ExpertSkillItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-ot/src/main/java/cl/camodev/wosbot/console/enumerable/GameVersion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-ot/src/main/java/cl/camodev/wosbot/console/enumerable/IdleBehavior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-ot/src/main/java/cl/camodev/wosbot/console/enumerable/PrioritizableItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-ot/src/main/java/cl/camodev/wosbot/console/enumerable/TpConfigEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-ot/src/main/java/cl/camodev/wosbot/console/enumerable/TpDailyTaskEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-ot/src/main/java/cl/camodev/wosbot/ot/DTOArea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-ot/src/main/java/cl/camodev/wosbot/ot/DTOBotState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-ot/src/main/java/cl/camodev/wosbot/ot/DTOConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-ot/src/main/java/cl/camodev/wosbot/ot/DTODailyTaskStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-ot/src/main/java/cl/camodev/wosbot/ot/DTOImageSearchResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-ot/src/main/java/cl/camodev/wosbot/ot/DTOLogMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-ot/src/main/java/cl/camodev/wosbot/ot/DTOPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-ot/src/main/java/cl/camodev/wosbot/ot/DTOPriorityItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-ot/src/main/java/cl/camodev/wosbot/ot/DTOProfileStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-ot/src/main/java/cl/camodev/wosbot/ot/DTOProfiles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-ot/src/main/java/cl/camodev/wosbot/ot/DTOQueueProfileState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-ot/src/main/java/cl/camodev/wosbot/ot/DTOQueueState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-ot/src/main/java/cl/camodev/wosbot/ot/DTORawImage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-ot/src/main/java/cl/camodev/wosbot/ot/DTOTaskQueueStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-ot/src/main/java/cl/camodev/wosbot/ot/DTOTaskState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-ot/src/main/java/cl/camodev/wosbot/ot/DTOTesseractSettings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-persitence/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-persitence/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-persitence/src/main/java/cl/camodev/wosbot/almac/entity/BuildingTypeEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-persitence/src/main/java/cl/camodev/wosbot/almac/entity/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-persitence/src/main/java/cl/camodev/wosbot/almac/entity/DailyTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-persitence/src/main/java/cl/camodev/wosbot/almac/entity/Profile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-persitence/src/main/java/cl/camodev/wosbot/almac/entity/ProfileBuilding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-persitence/src/main/java/cl/camodev/wosbot/almac/entity/TpConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-persitence/src/main/java/cl/camodev/wosbot/almac/entity/TpDailyTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-persitence/src/main/java/cl/camodev/wosbot/almac/jpa/BotPersistence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-persitence/src/main/java/cl/camodev/wosbot/almac/jpa/PersistenceDataInitialization.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-persitence/src/main/java/cl/camodev/wosbot/almac/repo/ConfigRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-persitence/src/main/java/cl/camodev/wosbot/almac/repo/DailyTaskRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-persitence/src/main/java/cl/camodev/wosbot/almac/repo/IConfigRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-persitence/src/main/java/cl/camodev/wosbot/almac/repo/IDailyTaskRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-persitence/src/main/java/cl/camodev/wosbot/almac/repo/IProfileRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-persitence/src/main/java/cl/camodev/wosbot/almac/repo/ProfileRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-persitence/src/main/resources/META-INF/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/console/list/ILogListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/emulator/Emulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/emulator/EmulatorManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/emulator/EmulatorType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/emulator/PositionCallback.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/emulator/impl/LDPlayerEmulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/emulator/impl/MEmuEmulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/emulator/impl/MuMuEmulator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/ex/ADBConnectionException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/ex/HomeNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/ex/ProfileInReconnectStateException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/ex/StopExecutionException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/IBotStateListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/IProfileDataChangeListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/IProfileStatusChangeListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/IQueueStateListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/IServProfile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/IStaminaChangeListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/impl/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/impl/ServConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/impl/ServLogs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/impl/ServProfiles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/impl/ServScheduler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/impl/ServTaskManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/impl/StaminaService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/ocr/BotTextRecognitionProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/DelayedTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/DelayedTaskRegistry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/EnumStartLocation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/TaskQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/TaskQueueManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/WaitingThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/constants/ButtonConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/constants/CommonGameAreas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/constants/CommonOCRSettings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/constants/LeftMenuTextSettings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/constants/SearchConfigConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/helper/AllianceChampionshipHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/helper/AllianceHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/helper/BearTrapHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/helper/CharacterSwitchHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/helper/EventHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/helper/IntelScreenHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/helper/MarchHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/helper/NavigationHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/helper/StaminaHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/helper/TemplateSearchHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/helper/TimeWindowHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/AllianceAutojoinTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/AllianceChampionshipTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/AllianceChestTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/AllianceMobilizationTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/AllianceShopTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/AllianceTechTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/ArenaTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/BankTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/BearTrapTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/BeastSlayTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/ChiefOrderTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/CrystalLaboratoryTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/DailyLabyrinthTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/DailyMissionTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/ExpertSkillTrainingTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/ExpertsAgnesIntelTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/ExpertsRomulusTagTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/ExpertsRomulusTroopsTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/ExplorationTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/GatherSpeedTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/GatherTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/HeroMissionEventTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/HeroRecruitmentTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/InitializeTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/IntelligenceTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/JourneyofLightTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/LifeEssenceCaringTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/LifeEssenceTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/MailRewardsTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/MercenaryEventTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/MyriadBazaarEventTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/MysteryShopTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/NewSurvivorsTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/NomadicMerchantTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/PetAdventureChestTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/PetAllianceTreasuresTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/PetSkillsTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/PolarTerrorHuntingTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/StorehouseChest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/TrainingTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/TriumphTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/TundraTrekAutoTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/TundraTrekTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/TundraTruckEventTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/UpgradeBuildingsTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/VipTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/serv/task/impl/WarAcademyTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/java/cl/camodev/wosbot/taskmanager/ITaskStatusChangeListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/alliance/championshipDispatchTroopsButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/alliance/championshipRegisterButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/alliance/championshipSwitchLineButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/alliance/championshipTab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/alliance/championshipTroopsButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/alliance/championshipUpdateTroopsButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/alliance/chestButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/alliance/expertBadge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/alliance/helpButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/alliance/helpRequests.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/alliance/honorChest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/alliance/lootClaimAllButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/alliance/shop/advancedTeleport.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/alliance/shop/recallMarch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/alliance/shop/territoryTeleport.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/alliance/shop/vipXP10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/alliance/shop/vipXP100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/alliance/shopButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/alliance/shopSoldOut.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/alliance/techButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/alliance/techThumbUp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/alliance/territoryButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/alliance/triumphButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/alliance/triumphDaily.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/alliance/triumphDailyClaimed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/alliance/triumphWeekly.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/alliance/warButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/arena/arenaChallengeButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/arena/arenaFreeRefreshButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/arena/arenaGemsExtraAttemptsButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/arena/arenaGemsRefreshButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/arena/arenaGemsRefreshConfirmButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/building/detailsButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/building/detailsInfantry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/building/detailsLancer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/building/detailsMarksman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/building/infoButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/building/researchButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/building/speedButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/building/survivorFurnitureUpgradeButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/building/survivorFurnitureUpgradeButton_mask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/building/survivorUpgradeButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/building/trainButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/building/upgradeButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/chieforder/chiefOrderActive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/chieforder/chiefOrderCooldown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/chieforder/chiefOrderEnactButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/chieforder/chiefOrderMenuButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/chieforder/chiefOrderProductivityDay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/chieforder/chiefOrderRushJob.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/chieforder/chiefOrderUrgentMobilisation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/city.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/crystallab/crystalLabUI.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/crystallab/dailyDiscountedRFC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/crystallab/fc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/crystallab/fcRefine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/crystallab/rfcRefineButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/dailymission/claimAllButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/dailymission/claimAllButton_CH.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/dailymission/claimButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/dailymission/claimButton_CH.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/dailymission/dailyMissionTab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/dailymission/dailyMissionTab_CH.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/bearhunt/bearDeployButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/bearhunt/bearIsRunning.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/bearhunt/bearJoinPlusIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/bearhunt/bearRallyButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/deals/bank.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/deals/bankDeposit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/deals/bankInDeposit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/deals/bankWithdraw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/heromission/heroMissionEventCaptureButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/heromission/heroMissionEventChest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/heromission/heroMissionEventTab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/heromission/heroMissionEventTraceButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/journeyoflight/freeWatch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/journeyoflight/freeWatchAvailable.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/journeyoflight/journeyOfLightTab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/journeyoflight/journeyOfLightUnselected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/mobilization/AM_+_1_Free_Mission.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/mobilization/AM_120%.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/mobilization/AM_200%.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/mobilization/AM_Alliance_Monuments.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/mobilization/AM_Bar_X.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/mobilization/AM_Build_Speedups.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/mobilization/AM_Buy_Package.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/mobilization/AM_Chief_Gear_Charm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/mobilization/AM_Chief_Gear_Score.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/mobilization/AM_Completed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/mobilization/AM_Defeat_Beasts.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/mobilization/AM_Fire_Crystal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/mobilization/AM_Gather_Resources.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/mobilization/AM_Hero_Gear_Stone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/mobilization/AM_Mythic_Shard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/mobilization/AM_Rally.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/mobilization/AM_Train_Troops.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/mobilization/AM_Training_Speedups.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/mobilization/AM_Use_Gems.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/mobilization/AM_Use_Speedups.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/mobilization/allianzMobilizationTab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/mobilization/allianzMobilizationUnselected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/sunFire/ministryApplyButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/events/sunFireTab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/experts/agnesBadge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/experts/baldurBadge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/experts/cyrilleBadge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/experts/expertTrainingSpeedupIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/experts/fabianBadge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/experts/holgerBadge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/experts/intelAgnes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/experts/learnButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/experts/romulusBadge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/experts/romulusClaimTagButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/experts/romulusClaimTroopsButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/exploration/claim.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/exploration/claim_CH.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/gathering/coalHero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/gathering/ironHero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/gathering/meatHero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/gathering/woodHero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/herorecruitment/freebutton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/herorecruitment/freebutton_CH.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/home/bottombar/backpackButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/home/bottombar/shopButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/home/camp/train.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/home/camp/training.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/home/city/status/cookhouse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/home/city/status/goButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/home/dealsButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/home/eventsButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/home/intelButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/home/newSurvivors.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/home/newSurvivorsPlusButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/home/newSurvivorsWelcome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/home/petsButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/home/reconnectButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/home/war.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/intel/beastAttack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/intel/beastFire.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/intel/beastGrayscale.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/intel/beastGrayscaleFC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/intel/beastGrayscaleFC1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/intel/beastView.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/intel/completed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/intel/deploy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/intel/deployConfirmationDialog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/intel/intelDone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/intel/intelScreen1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/intel/intelScreen2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/intel/journeyExplore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/intel/journeyGrayscale.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/intel/journeyGrayscaleFC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/intel/survivorGrayscale.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/intel/survivorGrayscaleFC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/intel/survivorRescue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/island/claim.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/island/dailyCaringAvailable.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/island/dailyCaringButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/island/dailyCaringGotoIsland.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/island/likeButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/island/likeButton_mask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/island/threeMenu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/island/weeklyFreeScroll.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/island/weeklyFreeScrollBuyButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/labyrinth/deploy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/labyrinth/dungeon1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/labyrinth/dungeon2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/labyrinth/dungeon3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/labyrinth/dungeon4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/labyrinth/dungeon5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/labyrinth/dungeon6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/labyrinth/normalChallenge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/labyrinth/quickChallenge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/labyrinth/quickDeploy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/labyrinth/raidChallenge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/leftmenu/expertTraining.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/leftmenu/labyrinth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/leftmenu/tundraTrek.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/mail/inMailMenu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/mail/mailMenu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/mail/unclaimedRewards.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/marches/recallButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/marches/speedupButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/marches/viewButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/mercenary/mercenaryEventAttack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/mercenary/mercenaryEventChallenge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/mercenary/mercenaryEventChampionsInitiationSelected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/mercenary/mercenaryEventChampionsInitiationUnselected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/mercenary/mercenaryEventDeploy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/mercenary/mercenaryEventDifficultyChallenge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/mercenary/mercenaryEventEpicInitiationSelected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/mercenary/mercenaryEventEpicInitiationUnselected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/mercenary/mercenaryEventLegendsInitiationSelected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/mercenary/mercenaryEventLegendsInitiationUnselected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/mercenary/mercenaryEventScout.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/mercenary/mercenaryEventTab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/myriadbazaar/myriadBazaarIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/nomadicmerchant/coal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/nomadicmerchant/meat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/nomadicmerchant/refresh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/nomadicmerchant/stone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/nomadicmerchant/vip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/nomadicmerchant/vip_CH.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/nomadicmerchant/wood.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/pets/beastCage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/pets/chestAttempt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/pets/chestBlue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/pets/chestCompleted.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/pets/chestPurple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/pets/chestRed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/pets/chestSelect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/pets/chestShare.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/pets/chestStart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/pets/claimButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/pets/infoSkill.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/pets/unlockSkillText.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/pets/useSkill.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/polarterror/polarTerror.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/polarterror/polarTerrorTabMagnifyingGlass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/polarterror/polarTerrorTabSpecialRewards.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/polarterror/slider.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/profile/settings/switchCharacterButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/profile/settings/switchcharacter/activeCharacterCheckMark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/profile/settings/switchcharacter/cancelButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/profile/settings/switchcharacter/confirmButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/profile/settings/switchcharacter/furnaceLevelActive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/profile/settings/switchcharacter/furnaceLevelInActive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/profile/settingsButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/rally/equalizeButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/rally/holdButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/rally/rallyButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/rally/removeHeroButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/rally/troopsAlreadyMarching.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/shop/mysteryShopButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/shop/mysteryShopButton_CH.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/shop/mysteryshop/250BadgesButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/shop/mysteryshop/dailyRefresh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/shop/mysteryshop/dailyRefresh_CH.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/shop/mysteryshop/freeReward.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/shop/mysteryshop/freeReward_CH.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/shop/mysteryshop/mysteryShopMythicShard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/shortcuts/coal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/shortcuts/farmCoal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/shortcuts/farmGather.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/shortcuts/farmIron.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/shortcuts/farmMeat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/shortcuts/farmTick.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/shortcuts/farmWood.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/shortcuts/gatherDeploy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/shortcuts/helpRequest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/shortcuts/helpRequest1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/shortcuts/helpRequest2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/shortcuts/infantry.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/shortcuts/iron.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/shortcuts/lancer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/shortcuts/marksman.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/shortcuts/meat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/shortcuts/obtain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/shortcuts/researchCenter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/shortcuts/upgrade.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/shortcuts/wood.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/storehouse/chest.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/storehouse/chest2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/storehouse/stamina.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/infantry1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/infantry10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/infantry11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/infantry2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/infantry3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/infantry4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/infantry5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/infantry6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/infantry7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/infantry8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/infantry9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/lancer1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/lancer10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/lancer11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/lancer2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/lancer3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/lancer4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/lancer5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/lancer6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/lancer7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/lancer8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/lancer9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/marksman1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/marksman10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/marksman11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/marksman2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/marksman3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/marksman4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/marksman5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/marksman6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/marksman7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/marksman8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/marksman9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/troopLocked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/training/troopPromote.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/tundratrek/autoTrek.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/tundratrek/bagTrek.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/tundratrek/bluebuttonTrek.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/tundratrek/checkactiveTrek.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/tundratrek/checkinactiveTrek.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/tundratrek/skipTrek.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/tundratrek/trekClaimButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/tundratrek/trekSupplies.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/tundratruck/tundraTruckArrived.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/tundratruck/tundraTruckDeparted.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/tundratruck/tundraTruckEnded.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/tundratruck/tundraTruckEpic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/tundratruck/tundraTruckEscort.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/tundratruck/tundraTruckLegendary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/tundratruck/tundraTruckLegendaryRaid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/tundratruck/tundraTruckNormal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/tundratruck/tundraTruckRare.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/tundratruck/tundraTruckRefresh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/tundratruck/tundraTruckRefreshGems.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/tundratruck/tundraTruckTab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/tundratruck/tundraTruckTipsPopup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/validation/crystalLab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/validation/warAcademy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/vip/vipMenu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/vip/vipUnlockButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/vip/vipUnlockButton_CH.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-serv/src/main/resources/templates/world.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-utiles/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-utiles/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-utiles/src/main/java/cl/camodev/utiles/ImageSearchUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-utiles/src/main/java/cl/camodev/utiles/PriorityItemUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-utiles/src/main/java/cl/camodev/utiles/StyleConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-utiles/src/main/java/cl/camodev/utiles/UtilOCR.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-utiles/src/main/java/cl/camodev/utiles/UtilRally.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-utiles/src/main/java/cl/camodev/utiles/UtilTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-utiles/src/main/java/cl/camodev/utiles/number/NumberConverters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-utiles/src/main/java/cl/camodev/utiles/number/NumberValidators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-utiles/src/main/java/cl/camodev/utiles/ocr/TextRecognitionProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-utiles/src/main/java/cl/camodev/utiles/ocr/TextRecognitionRetrier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-utiles/src/main/java/cl/camodev/utiles/time/TimeConverters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-utiles/src/main/java/cl/camodev/utiles/time/TimeValidators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-utiles/src/main/java/cl/camodev/wosbot/logging/ProfileLogger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-utiles/src/main/resources/native/opencv/opencv_java4110.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wos-utiles/src/main/resources/styles/style.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="39WraFsyRqBpHrrcxGPqLKGxe0h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "kotlin",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Kylee/Downloads/old",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-84258761d1cc-intellij.indexing.shared.core-IU-243.28141.18" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.28141.18" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="513e8b3d-a0c9-43fe-aec9-5952feb05dc7" name="Changes" comment="" />
+      <created>1770822783746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770822783746</updated>
+      <workItem from="1770822785680" duration="777000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
